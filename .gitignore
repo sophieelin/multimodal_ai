@@ -1,0 +1,7 @@
+.env
+mmai_midterm_report/
+__pycache__/
+*.pyc
+.DS_Store
+*.csv
+*.npz
